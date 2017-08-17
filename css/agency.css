@@ -57,6 +57,9 @@ img::selection {
 img::-moz-selection {
   background: transparent; }
 
+.white-shadow{
+  text-shadow: black 0.1em 0.1em 0.2em;
+}
 body {
   -webkit-tap-highlight-color: #7b56b7; }
 .fa-cirlce{
